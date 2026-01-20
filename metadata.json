@@ -1,0 +1,7 @@
+{
+  "name": "Royal Raja",
+  "description": "A modern, mobile-first local betting and gaming wallet dashboard with secure transactions, game listings, and AI-powered luck insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
